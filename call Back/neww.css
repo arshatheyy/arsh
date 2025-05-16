@@ -1,0 +1,11 @@
+.bg{
+    color: white;
+    background-image: url("pexels-pixabay-531880.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.head{
+    text-align: center;
+    padding-top: 500px;
+}
